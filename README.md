@@ -34,12 +34,14 @@
 
 <div align=center>
   <h2>Langs And Tools</h2>
-  <h3>Programing Langs</h3>
-    <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
+  <h3>Programming Langs</h3>
+    <img src="https://skillicons.dev/icons?i=go,js,nodejs,cpp,java,python">
   <h3>Databases</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis">
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio">
+  <h3>Tech</h3>
+    <img src="https://skillicons.dev/icons?i=kubernetes,azure,selenium,aws,postman">
 </div>
 
 
