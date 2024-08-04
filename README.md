@@ -29,7 +29,7 @@
     
 ## 👑 Trophy 👑  
 <div>    
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=algolia&column=-1&rank=-?"></a>
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=algolia&column=-1&rank=?"></a>
 </div>
 
 <div align=center>
