@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=6cc644&center=true&multiline=true&random=false&width=1000&lines=Hello%2C Welcome to my Github!" alt="Typing SVG" /></a>
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachinkumargit/sachinkumargit/blob/image/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sachinkumargit/sachinkumargit/blob/image/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture></br>
+</picture></br> -->
 
 
 <div align="center">
