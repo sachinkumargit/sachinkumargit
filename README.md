@@ -1,7 +1,11 @@
 <img alt="Header Banner" style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=F35A61&section=header&reversal=false'>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=6cc644&center=true&multiline=true&random=false&width=1000&lines=Hello!+I'm+Sachin+Kumar;Senior+Software+Engineer+%40+LambdaTest;Building+Scalable+Distributed+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=6cc644&center=true&multiline=true&random=false&width=1000&lines=Hello!+I'm+Sachin+Kumar;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+LambdaTest;4%2B+years+building+scalable+distributed+systems;Passionate+about+Cloud+%2C+DevOps+%26+System+Design;IIIT+Allahabad+Alumni+%7C+Open+to+collaborations" alt="About Me" />
 </div>
 
 <br/>
@@ -18,7 +22,7 @@
 
 Senior Software Engineer passionate about building scalable distributed systems and cloud-native applications. Specializing in job orchestration platforms, microservices architecture, and DevOps practices. Strong focus on designing high-throughput systems, optimizing performance, and solving complex engineering challenges at scale.
 
-**🎓 Education:** Dual Degree (B.Tech + M.Tech) in ECE from IIIT Allahabad | CGPA: 8.79/10
+**🎓 Education:** Dual Degree (B.Tech + M.Tech) in ECE from IIIT Allahabad
 
 **🎯 Interests:** Distributed Systems • System Design • Cloud Infrastructure • Performance Optimization
 
@@ -94,7 +98,6 @@ Senior Software Engineer passionate about building scalable distributed systems 
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kumar-1401)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinkumargit)
 
 <br/>
 
