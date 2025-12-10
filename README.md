@@ -71,7 +71,7 @@
 
 ## 💼 Professional Summary
 
-Senior Software Engineer with 3+ years of experience building scalable distributed systems and cloud-native applications. Currently working at LambdaTest, specializing in job orchestration platforms, microservices architecture, and DevOps practices. Passionate about designing high-throughput systems, optimizing performance, and mentoring teams.
+Senior Software Engineer with 4 years of experience building scalable distributed systems and cloud-native applications. Currently working at LambdaTest, specializing in job orchestration platforms, microservices architecture, and DevOps practices. Passionate about designing high-throughput systems, optimizing performance, and mentoring teams.
 
 ---
 
@@ -85,19 +85,19 @@ Recognized for outstanding contributions and excellence in software engineering.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumargit&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=algolia&hide_border=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=sachinkumargit&theme=algolia&hide_border=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinkumargit&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=algolia&hide_border=true&include_all_commits=true" alt="Top Languages" />
+<img height="180em" src="https://streak-stats.demolab.com?user=sachinkumargit&theme=algolia&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkumargit&theme=algolia&include_all_commits=true)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinkumargit&theme=algolia&include_all_commits=true)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinkumargit&theme=algolia&include_all_commits=true)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachinkumargit&theme=algolia&include_all_commits=true)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachinkumargit&theme=algolia&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkumargit&theme=algolia" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinkumargit&theme=algolia" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinkumargit&theme=algolia" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachinkumargit&theme=algolia" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachinkumargit&theme=algolia" alt="Productive Time" />
 
 </div>
 
@@ -107,7 +107,7 @@ Recognized for outstanding contributions and excellence in software engineering.
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=algolia&column=7&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 
 </div>
 
@@ -151,7 +151,7 @@ Recognized for outstanding contributions and excellence in software engineering.
 
 <div align="center">
   
-![GitHub Contribution Grid](https://github-contributions.vercel.app/api?username=sachinkumargit&theme=react&hide_border=true&bg_color=0D1117)
+<img src="https://github-contributions.vercel.app/api?username=sachinkumargit&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Contribution Grid" />
 
 </div>
 
