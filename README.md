@@ -13,7 +13,7 @@
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumargit&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumargit&theme=radical&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
@@ -67,12 +67,20 @@ Senior Software Engineer passionate about building scalable distributed systems 
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinkumargit&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinkumargit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+      <td style="border: none; padding-left: 10px;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkumargit&theme=react&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sachinkumargit&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -80,7 +88,7 @@ Senior Software Engineer passionate about building scalable distributed systems 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
@@ -88,7 +96,7 @@ Senior Software Engineer passionate about building scalable distributed systems 
 ## 📈 GitHub Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkumargit&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkumargit&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
