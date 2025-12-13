@@ -23,5 +23,9 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_people: yes
+          plugin_people_types: followers, following, sponsors, reviews
           plugin_stars: yes
           filename: github-metrics.svg
