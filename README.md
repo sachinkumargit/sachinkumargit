@@ -70,10 +70,10 @@ Senior Software Engineer passionate about building scalable distributed systems 
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none; padding-right: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinkumargit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
+        <img height="180em" src="https://raw.githubusercontent.com/sachinkumargit/sachinkumargit/main/github-metrics.svg" alt="GitHub Stats"/>
       </td>
       <td style="border: none; padding-left: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumargit&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&hide=html" alt="Top Languages"/>
       </td>
     </tr>
   </table>
