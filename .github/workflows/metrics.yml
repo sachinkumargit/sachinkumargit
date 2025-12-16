@@ -29,10 +29,6 @@ jobs:
           plugin_followup_sections: repositories
           plugin_people: yes
           plugin_people_types: followers, following, sponsors, reviews
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 60
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+
           plugin_stars: yes
           filename: github-metrics.svg

@@ -76,13 +76,7 @@ Senior Software Engineer passionate about building scalable distributed systems 
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumargit&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
-
----
 
 ## 📈 GitHub Summary
 
