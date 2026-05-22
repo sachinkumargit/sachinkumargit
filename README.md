@@ -10,10 +10,10 @@
 
 <br/>
 
-## 📊 Contribution Activity
+## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumargit&theme=radical&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 <br/>
